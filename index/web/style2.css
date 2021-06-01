@@ -1,0 +1,29 @@
+body {
+	color: white;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+
+#contenedor {
+	width: 50%;
+	margin: auto;
+	background: radial-gradient(rgb(234, 250, 4),rgb(241, 34, 34));
+	text-align: center;
+	padding: 10px 5px;
+	border-radius: 10px;
+}
+
+input[type="radio"] { display: none; }
+
+label {
+	margin: 0px 10px;
+	cursor: pointer;
+}
+
+#elementos { margin-top: 20px; }
+
+img {
+	margin: 5px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px black;
+}
